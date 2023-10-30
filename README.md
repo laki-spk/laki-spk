@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laki-spk
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R, python and NGS analysis protocols and packages
 - 💞️ I’m looking to collaborate on NGs analysis
 - 📫 How to reach me lakyspk@gmail.com
 
